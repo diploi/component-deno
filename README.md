@@ -41,4 +41,5 @@ Dependencies are cached during the build stage using `deno cache .`.
 
 ## Links
 
--   [Deno documentation](https://docs.deno.com/runtime/)
+- [Adding Deno to a project](https://docs.diploi.com/building/components/deno)
+- [Deno documentation](https://docs.deno.com/runtime/)
